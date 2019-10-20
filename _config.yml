@@ -3,3 +3,6 @@ description: A collection of books
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+collections:
+  galatian:
