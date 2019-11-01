@@ -1,16 +1,17 @@
 ---
 hello_text: "Hello there!"
 show_footer: false
-fruit:
-  - name: apple
-    cost: $1
-    color: red
-  - name: banana
-    cost: $2
-    color: yellow
-  - name: orange
-    cost: $1.50
-    color: orange
+verse:
+  - nb: 1
+    content: Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
+  - nb: 2
+    content: And all the brethren which are with me, unto the churches of Galatia:
+  - nb: 3
+    content: Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
+  - nb: 4
+    content: Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
+  - nb: 5
+    content: To whom be glory for ever and ever. Amen.
 ---
 <!doctype html>
 <html lang="en">
@@ -23,8 +24,8 @@ fruit:
     <p>{{ page.hello_text }}</p>
 
     <ul>
-      {% for item in page.fruit %}
-        <li>{{ item.name }}, cost: {{ item.cost }}, color: {{ item.color }}</li>
+      {% for v_item in page.verse %}
+      <li><sup>{{ v_item.nb }}</sup>{{ v_item.content }}</li>
       {% endfor %}
     </ul>
 
