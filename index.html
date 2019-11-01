@@ -28,9 +28,9 @@ chapter:
 <h1>About page</h1>
 <p>{{ page.hello_text }}</p>
 
-{% for paragraph in page.chapter %}
+{% for item in page.chapter %}
 <p>
-  {% for verse in paragraph %}
+  {% for verse in item.paragraph %}
   <sup>{{ verse.nb }}</sup>{{ verse.content }}
   {% endfor %}
 </p>
