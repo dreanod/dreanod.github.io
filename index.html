@@ -3,10 +3,15 @@ hello_text: "Hello there!"
 show_footer: false
 verse:
   - nb: 1
+    content: "Hello"
   - nb: 2
+    content: "Hello"
   - nb: 3
+    content: "Hello"
   - nb: 4
+    content: "Hello"
   - nb: 5
+    content: "Hello"
 ---
 <!doctype html>
 <html lang="en">
@@ -20,7 +25,7 @@ verse:
 
     <ul>
       {% for v_item in page.verse %}
-      <li>{{ v_item.nb }}</li>
+      <li><sup>{{ v_item.nb }}</sup>{{ v_item.content }}</li>
       {% endfor %}
     </ul>
 
