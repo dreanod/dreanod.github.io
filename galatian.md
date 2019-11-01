@@ -6,7 +6,7 @@ source: Exported from Wikisource on 10/19/19
 
 # Chapter 1
 
-1 Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
+<sup>1</sup> Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 
 2 And all the brethren which are with me, unto the churches of Galatia:
 
