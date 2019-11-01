@@ -1,14 +1,35 @@
 ---
-layout: default
-title: Hank Quinlan, Horrible Cop
+hello_text: "Hello there!"
+show_footer: false
+fruit:
+  - name: apple
+    cost: $1
+    color: red
+  - name: banana
+    cost: $2
+    color: yellow
+  - name: orange
+    cost: $1.50
+    color: orange
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Hank Quinlaaaaaan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>About</title>
+  </head>
+  <body>
+    <h1>About page</h1>
+    <p>{{ page.hello_text }}</p>
 
+    <ul>
+      {% for item in page.fruit %}
+        <li>{{ item.name }}, cost: {{ item.cost }}, color: {{ item.color }}</li>
+      {% endfor %}
+    </ul>
 
-{% for verse in site.galatian %}
-  <h2>{{ verse.verse }}</h2>
-  <p>{{ verse.content }}</p>
-{% endfor %}
+    {% if page.show_footer %}
+      <footer>I am a footer</footer>
+    {% endif %}
+  </body>
+</html>
