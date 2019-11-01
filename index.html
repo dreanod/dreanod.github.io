@@ -1,6 +1,5 @@
 ---
-hello_text: "Hello there!"
-show_footer: false
+layout: default
 verse:
   - nb: 1
     content: "Hello"
@@ -13,24 +12,13 @@ verse:
   - nb: 5
     content: "Hello"
 ---
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>About</title>
-  </head>
-  <body>
-    <h1>About page</h1>
-    <p>{{ page.hello_text }}</p>
 
-    <ul>
-      {% for v_item in page.verse %}
-      <li><sup>{{ v_item.nb }}</sup>{{ v_item.content }}</li>
-      {% endfor %}
-    </ul>
+<h1>About page</h1>
+<p>{{ page.hello_text }}</p>
 
-    {% if page.show_footer %}
-      <footer>I am a footer</footer>
-    {% endif %}
-  </body>
-</html>
+<ul>
+  {% for v_item in page.verse %}
+  <li><sup>{{ v_item.nb }}</sup>{{ v_item.content }}</li>
+  {% endfor %}
+</ul>
+
