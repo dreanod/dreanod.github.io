@@ -12,14 +12,15 @@ Die Addressanten sind nicht eine einzige Gemeinschaft, sondern mehere Gemeinscha
 
 Sein Ziel ist, diese Gemeinschaften von einer gesetztfreien universalen Verkündigung überzeugen.
 
-Frage: Galatian: Landschaft oder Provinz?
-![Bild1.png]
+Aber mit welchen Gemeinschaften spricht er? Galatian kann entweder die ganze romanische Provinz von Galatian, oder nur das südlische landschaftliche Gebiet.
+
+Diese Frage wird bis heute noch debattiert. Trotzdem, machen wir als ob wir von der ganzen Provinz sprechen.
 
 (1,3)
 > Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus,
 > > χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ πατρὸς καὶ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ 
 
-Traditionelle judische Segensformel. 
+Diese stammt aus einer traditionellen jüdischen Segensformel. 
 Performative Formel. Gnade und Friede zuspricht: Apostolische
 Ergänzt mit Kyrie Jesus
 Gnade = Geschenk, nicht erwerbar durch Gesetz
