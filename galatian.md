@@ -3,427 +3,307 @@ layout: default
 title: Galatian
 source: Exported from Wikisource on 10/19/19
 ---
-
-# Chapter 1
-
-<sup>1</sup> Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
-
-2 And all the brethren which are with me, unto the churches of Galatia:
-
-3 Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
-
-4 Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
-
-5 To whom be glory for ever and ever. Amen.
-
-6 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
-
-7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
-
-8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
-
-9 As we said before, so say I now again, if any man preach any other gospel unto you than that ye have received, let him be accursed.
-
-10 For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
-
-11 But I certify you, brethren, that the gospel which was preached of me is not after man.
-
-12 For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
-
-13 For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
-
-14 And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
-
-15 But when it pleased God, who separated me from my mother's womb, and called me by his grace,
-
-16 To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
-
-17 Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.
-
-18 Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
-
-19 But other of the apostles saw I none, save James the Lord's brother.
-
-20 Now the things which I write unto you, behold, before God, I lie not.
-
-21 Afterwards I came into the regions of Syria and Cilicia;
-
-22 And was unknown by face unto the churches of Judaea which were in Christ:
-
-23 But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.
-
-24 And they glorified God in me.
-
-# Chapter 2
-
-1 Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
-
-2 And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
-
-3 But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
-
-4 And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
-
-5 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
-
-6 But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:
-
-7 But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;
-
-8 (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
-
-9 And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
-
-10 Only they would that we should remember the poor; the same which I also was forward to do.
-
-11 But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
-
-12 For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
-
-13 And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
-
-14 But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
-
-15 We who are Jews by nature, and not sinners of the Gentiles,
-
-16 Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
-
-17 But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.
-
-18 For if I build again the things which I destroyed, I make myself a transgressor.
-
-19 For I through the law am dead to the law, that I might live unto God.
-
-20 I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
-
-21 I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.
-
-
-
-
-
-# Chapter 3
-
-
-
-
-1 O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
-
-2 This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
-
-3 Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?
-
-4 Have ye suffered so many things in vain? if it be yet in vain.
-
-5 He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
-
-6 Even as Abraham believed God, and it was accounted to him for righteousness.
-
-7 Know ye therefore that they which are of faith, the same are the children of Abraham.
-
-8 And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.
-
-9 So then they which be of faith are blessed with faithful Abraham.
-
-10 For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.
-
-11 But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.
-
-12 And the law is not of faith: but, The man that doeth them shall live in them.
-
-13 Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
-
-14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
-
-15 Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.
-
-16 Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
-
-17 And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
-
-18 For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.
-
-19 Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.
-
-20 Now a mediator is not a mediator of one, but God is one.
-
-21 Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.
-
-22 But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
-
-23 But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.
-
-24 Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.
-
-25 But after that faith is come, we are no longer under a schoolmaster.
-
-26 For ye are all the children of God by faith in Christ Jesus.
-
-27 For as many of you as have been baptized into Christ have put on Christ.
-
-28 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
-
-29 And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.
-
-
-
-
-
-# Chapter 4
-
-
-
-
-1 Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;
-
-2 But is under tutors and governors until the time appointed of the father.
-
-3 Even so we, when we were children, were in bondage under the elements of the world:
-
-4 But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
-
-5 To redeem them that were under the law, that we might receive the adoption of sons.
-
-6 And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
-
-7 Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
-
-8 Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.
-
-9 But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?
-
-10 Ye observe days, and months, and times, and years.
-
-11 I am afraid of you, lest I have bestowed upon you labour in vain.
-
-12 Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.
-
-13 Ye know how through infirmity of the flesh I preached the gospel unto you at the first.
-
-14 And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
-
-15 Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.
-
-16 Am I therefore become your enemy, because I tell you the truth?
-
-17 They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.
-
-18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
-
-19 My little children, of whom I travail in birth again until Christ be formed in you,
-
-20 I desire to be present with you now, and to change my voice; for I stand in doubt of you.
-
-21 Tell me, ye that desire to be under the law, do ye not hear the law?
-
-22 For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
-
-23 But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
-
-24 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
-
-25 For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
-
-26 But Jerusalem which is above is free, which is the mother of us all.
-
-27 For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.
-
-28 Now we, brethren, as Isaac was, are the children of promise.
-
-29 But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
-
-30 Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
-
-31 So then, brethren, we are not children of the bondwoman, but of the free.
-
-
-
-
-
-# Chapter 5
-
-
-
-
-1 Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
-
-2 Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
-
-3 For I testify again to every man that is circumcised, that he is a debtor to do the whole law.
-
-4 Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.
-
-5 For we through the Spirit wait for the hope of righteousness by faith.
-
-6 For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
-
-7 Ye did run well; who did hinder you that ye should not obey the truth?
-
-8 This persuasion cometh not of him that calleth you.
-
-9 A little leaven leaveneth the whole lump.
-
-10 I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
-
-11 And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
-
-12 I would they were even cut off which trouble you.
-
-13 For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
-
-14 For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.
-
-15 But if ye bite and devour one another, take heed that ye be not consumed one of another.
-
-16 This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.
-
-17 For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.
-
-18 But if ye be led of the Spirit, ye are not under the law.
-
-19 Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,
-
-20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,
-
-21 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.
-
-22 But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
-
-23 Meekness, temperance: against such there is no law.
-
-24 And they that are Christ's have crucified the flesh with the affections and lusts.
-
-25 If we live in the Spirit, let us also walk in the Spirit.
-
-26 Let us not be desirous of vain glory, provoking one another, envying one another.
-
-
-
-
-
-# Chapter 6
-
-
-
-
-1 Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
-
-2 Bear ye one another's burdens, and so fulfil the law of Christ.
-
-3 For if a man think himself to be something, when he is nothing, he deceiveth himself.
-
-4 But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
-
-5 For every man shall bear his own burden.
-
-6 Let him that is taught in the word communicate unto him that teacheth in all good things.
-
-7 Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
-
-8 For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
-
-9 And let us not be weary in well doing: for in due season we shall reap, if we faint not.
-
-10 As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.
-
-11 Ye see how large a letter I have written unto you with mine own hand.
-
-12 As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.
-
-13 For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
-
-14 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
-
-15 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.
-
-16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
-
-17 From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
-
-18 Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.
-
-
-
-
-
-Old Testament
-
-Genesis • Exodus • Leviticus • Numbers • Deuteronomy • Joshua • Judges • Ruth • 1 Samuel • 2 Samuel • 1 Kings • 2 Kings • 1 Chronicles • 2 Chronicles • Ezra • Nehemiah • Esther • Job • Psalms • Proverbs • Ecclesiastes • Song of Solomon • Isaiah • Jeremiah • Lamentations • Ezekiel • Daniel • Hosea • Joel • Amos • Obadiah • Jonah • Micah • Nahum • Habakkuk • Zephaniah • Haggai • Zechariah • Malachi
-
-Apocrypha
-
-1 Esdras • 2 Esdras • Tobit • Judith • Additions to Esther • Wisdom of Solomon • Susanna • Baruch • Additions to Daniel • Prayer of Manassheh • 1 Maccabees • 2 Maccabees
-
-New Testament
-
-Matthew • Mark • Luke • John • Acts • Romans • 1 Corinthians • 2 Corinthians • Galatians • Ephesians • Philippians • Colossians • 1 Thessalonians • 2 Thessalonians • 1 Timothy • 2 Timothy • Titus • Philemon • Hebrews • James • 1 Peter • 2 Peter • 1 John • 2 John • 3 John • Jude • Revelation
-
-
-
-
-
-About this digital edition
-
-
-This e-book comes from the online library Wikisource[1]. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
-
-We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported[2] license or, at your choice, those of the GNU FDL[3].
-
-Wikisource is constantly looking for new members. During the realization of this book, it's possible that we made some errors. You can report them at this page[4].
-
-The following users contributed to this book:
-
-189.177.25.212
-
-Bookofjude
-
-Zhaladshar
-
-David Haslam
-
-Pwd
-
-Jan.Kamenicek
-
-Jusjih
-
-EncycloPetey
-
-Pipian
-
-NickK
-
-Eminn
-
-Wajeth71
-
-John Vandenberg
-
-BirgitteSB
-
-Polbot
-
-Antlem
-
-Pathosbot
-
-
-
-
-
-* * *
-
-
-
-↑ http://wikisource.org
-
-↑ http://www.creativecommons.org/licenses/by-sa/3.0
-
-↑ http://www.gnu.org/copyleft/fdl.html
-
-↑ http://wikisource.org/wiki/Wikisource:Scriptorium
-
-
-
-
-
+- Chapter 1:
+  - verse_nb: 1
+  - verse_content: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+  - verse_nb: 2
+  - verse_content: "And all the brethren which are with me, unto the churches of Galatia:"
+  - verse_nb: 3
+  - verse_content: "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
+  - verse_nb: 4
+  - verse_content: "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+  - verse_nb: 5
+  - verse_content: "To whom be glory for ever and ever. Amen."
+  - verse_nb: 6
+  - verse_content: "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+  - verse_nb: 7
+  - verse_content: "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+  - verse_nb: 8
+  - verse_content: "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+  - verse_nb: 9
+  - verse_content: "As we said before, so say I now again, if any man preach any other gospel unto you than that ye have received, let him be accursed."
+  - verse_nb: 10
+  - verse_content: "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
+  - verse_nb: 11
+  - verse_content: "But I certify you, brethren, that the gospel which was preached of me is not after man."
+  - verse_nb: 12
+  - verse_content: "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+  - verse_nb: 13
+  - verse_content: "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:"
+  - verse_nb: 14
+  - verse_content: "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
+  - verse_nb: 15
+  - verse_content: "But when it pleased God, who separated me from my mother's womb, and called me by his grace,"
+  - verse_nb: 16
+  - verse_content: "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+  - verse_nb: 17
+  - verse_content: "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+  - verse_nb: 18
+  - verse_content: "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+  - verse_nb: 19
+  - verse_content: "But other of the apostles saw I none, save James the Lord's brother."
+  - verse_nb: 20
+  - verse_content: "Now the things which I write unto you, behold, before God, I lie not."
+  - verse_nb: 21
+  - verse_content: "Afterwards I came into the regions of Syria and Cilicia;"
+  - verse_nb: 22
+  - verse_content: "And was unknown by face unto the churches of Judaea which were in Christ:"
+  - verse_nb: 23
+  - verse_content: "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
+  - verse_nb: 24
+  - verse_content: "And they glorified God in me."
+- Chapter 2:
+  - verse_nb: 1
+  - verse_content: "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also."
+  - verse_nb: 2
+  - verse_content: "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain."
+  - verse_nb: 3
+  - verse_content: "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:"
+  - verse_nb: 4
+  - verse_content: "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:"
+  - verse_nb: 5
+  - verse_content: "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you."
+  - verse_nb: 6
+  - verse_content: "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:"
+  - verse_nb: 7
+  - verse_content: "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;"
+  - verse_nb: 8
+(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
+  - verse_nb: 9
+  - verse_content: "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision."
+  - verse_nb: 10
+  - verse_content: "Only they would that we should remember the poor; the same which I also was forward to do."
+  - verse_nb: 11
+  - verse_content: "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed."
+  - verse_nb: 12
+  - verse_content: "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision."
+  - verse_nb: 13
+  - verse_content: "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation."
+  - verse_nb: 14
+  - verse_content: "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?"
+  - verse_nb: 15
+  - verse_content: "We who are Jews by nature, and not sinners of the Gentiles,"
+  - verse_nb: 16
+  - verse_content: "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."
+  - verse_nb: 17
+  - verse_content: "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid."
+  - verse_nb: 18
+  - verse_content: "For if I build again the things which I destroyed, I make myself a transgressor."
+  - verse_nb: 19
+  - verse_content: "For I through the law am dead to the law, that I might live unto God."
+  - verse_nb: 20
+  - verse_content: "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me."
+  - verse_nb: 21
+  - verse_content: "I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain."
+- Chapter 3:
+  - verse_nb: 1
+  - verse_content: "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?"
+  - verse_nb: 2
+  - verse_content: "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?"
+  - verse_nb: 3
+  - verse_content: "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?"
+  - verse_nb: 4
+  - verse_content: "Have ye suffered so many things in vain? if it be yet in vain."
+  - verse_nb: 5
+  - verse_content: "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?"
+  - verse_nb: 6
+  - verse_content: "Even as Abraham believed God, and it was accounted to him for righteousness."
+  - verse_nb: 7
+  - verse_content: "Know ye therefore that they which are of faith, the same are the children of Abraham."
+  - verse_nb: 8
+  - verse_content: "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed."
+  - verse_nb: 9
+  - verse_content: "So then they which be of faith are blessed with faithful Abraham."
+  - verse_nb: 10
+  - verse_content: "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them."
+  - verse_nb: 11
+  - verse_content: "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith."
+  - verse_nb: 12
+  - verse_content: "And the law is not of faith: but, The man that doeth them shall live in them."
+  - verse_nb: 13
+  - verse_content: "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:"
+  - verse_nb: 14
+  - verse_content: "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+  - verse_nb: 15
+  - verse_content: "Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto."
+  - verse_nb: 16
+  - verse_content: "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ."
+  - verse_nb: 17
+  - verse_content: "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
+  - verse_nb: 18
+  - verse_content: "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise."
+  - verse_nb: 19
+  - verse_content: "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator."
+  - verse_nb: 20
+  - verse_content: "Now a mediator is not a mediator of one, but God is one."
+  - verse_nb: 21
+  - verse_content: "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."
+  - verse_nb: 22
+  - verse_content: "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."
+  - verse_nb: 23
+  - verse_content: "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."
+  - verse_nb: 24
+  - verse_content: "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."
+  - verse_nb: 25
+  - verse_content: "But after that faith is come, we are no longer under a schoolmaster."
+  - verse_nb: 26
+  - verse_content: "For ye are all the children of God by faith in Christ Jesus."
+  - verse_nb: 27
+  - verse_content: "For as many of you as have been baptized into Christ have put on Christ."
+  - verse_nb: 28
+  - verse_content: "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
+  - verse_nb: 29
+  - verse_content: "And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise."
+- Chapter 4:
+  - verse_nb: 1
+  - verse_content: "Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;"
+  - verse_nb: 2
+  - verse_content: "But is under tutors and governors until the time appointed of the father."
+  - verse_nb: 3
+  - verse_content: "Even so we, when we were children, were in bondage under the elements of the world:"
+  - verse_nb: 4
+  - verse_content: "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,"
+  - verse_nb: 5
+  - verse_content: "To redeem them that were under the law, that we might receive the adoption of sons."
+  - verse_nb: 6
+  - verse_content: "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father."
+  - verse_nb: 7
+  - verse_content: "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ."
+  - verse_nb: 8
+  - verse_content: "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods."
+  - verse_nb: 9
+  - verse_content: "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?"
+  - verse_nb: 10
+  - verse_content: "Ye observe days, and months, and times, and years."
+  - verse_nb: 11
+  - verse_content: "I am afraid of you, lest I have bestowed upon you labour in vain."
+  - verse_nb: 12
+  - verse_content: "Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all."
+  - verse_nb: 13
+  - verse_content: "Ye know how through infirmity of the flesh I preached the gospel unto you at the first."
+  - verse_nb: 14
+  - verse_content: "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus."
+  - verse_nb: 15
+  - verse_content: "Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me."
+  - verse_nb: 16
+  - verse_content: "Am I therefore become your enemy, because I tell you the truth?"
+  - verse_nb: 17
+  - verse_content: "They zealously affect you, but not well; yea, they would exclude you, that ye might affect them."
+  - verse_nb: 18
+  - verse_content: "But it is good to be zealously affected always in a good thing, and not only when I am present with you."
+  - verse_nb: 19
+  - verse_content: "My little children, of whom I travail in birth again until Christ be formed in you,"
+  - verse_nb: 20
+  - verse_content: "I desire to be present with you now, and to change my voice; for I stand in doubt of you."
+  - verse_nb: 21
+  - verse_content: "Tell me, ye that desire to be under the law, do ye not hear the law?"
+  - verse_nb: 22
+  - verse_content: "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman."
+  - verse_nb: 23
+  - verse_content: "But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise."
+  - verse_nb: 24
+  - verse_content: "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar."
+  - verse_nb: 25
+  - verse_content: "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children."
+  - verse_nb: 26
+  - verse_content: "But Jerusalem which is above is free, which is the mother of us all."
+  - verse_nb: 27
+  - verse_content: "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband."
+  - verse_nb: 28
+  - verse_content: "Now we, brethren, as Isaac was, are the children of promise."
+  - verse_nb: 29
+  - verse_content: "But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now."
+  - verse_nb: 30
+  - verse_content: "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman."
+  - verse_nb: 31
+  - verse_content: "So then, brethren, we are not children of the bondwoman, but of the free."
+- Chapter 5:
+  - verse_nb: 1
+  - verse_content: "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."
+  - verse_nb: 2
+  - verse_content: "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing."
+  - verse_nb: 3
+  - verse_content: "For I testify again to every man that is circumcised, that he is a debtor to do the whole law."
+  - verse_nb: 4
+  - verse_content: "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."
+  - verse_nb: 5
+  - verse_content: "For we through the Spirit wait for the hope of righteousness by faith."
+  - verse_nb: 6
+  - verse_content: "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+  - verse_nb: 7
+  - verse_content: "Ye did run well; who did hinder you that ye should not obey the truth?"
+  - verse_nb: 8
+  - verse_content: "This persuasion cometh not of him that calleth you."
+  - verse_nb: 9
+  - verse_content: "A little leaven leaveneth the whole lump."
+  - verse_nb: 10
+  - verse_content: "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be."
+  - verse_nb: 11
+  - verse_content: "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."
+  - verse_nb: 12
+  - verse_content: "I would they were even cut off which trouble you."
+  - verse_nb: 13
+  - verse_content: "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another."
+  - verse_nb: 14
+  - verse_content: "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."
+  - verse_nb: 15
+  - verse_content: "But if ye bite and devour one another, take heed that ye be not consumed one of another."
+  - verse_nb: 16
+  - verse_content: "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."
+  - verse_nb: 17
+  - verse_content: "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would."
+  - verse_nb: 18
+  - verse_content: "But if ye be led of the Spirit, ye are not under the law."
+  - verse_nb: 19
+  - verse_content: "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
+  - verse_nb: 20
+  - verse_content: "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
+  - verse_nb: 21
+  - verse_content: "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+  - verse_nb: 22
+  - verse_content: "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
+  - verse_nb: 23
+  - verse_content: "Meekness, temperance: against such there is no law."
+  - verse_nb: 24
+  - verse_content: "And they that are Christ's have crucified the flesh with the affections and lusts."
+  - verse_nb: 25
+  - verse_content: "If we live in the Spirit, let us also walk in the Spirit."
+  - verse_nb: 26
+  - verse_content: "Let us not be desirous of vain glory, provoking one another, envying one another."
+- Chapter 6:
+  - verse_nb: 1
+  - verse_content: "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted."
+  - verse_nb: 2
+  - verse_content: "Bear ye one another's burdens, and so fulfil the law of Christ."
+  - verse_nb: 3
+  - verse_content: "For if a man think himself to be something, when he is nothing, he deceiveth himself."
+  - verse_nb: 4
+  - verse_content: "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."
+  - verse_nb: 5
+  - verse_content: "For every man shall bear his own burden."
+  - verse_nb: 6
+  - verse_content: "Let him that is taught in the word communicate unto him that teacheth in all good things."
+  - verse_nb: 7
+  - verse_content: "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."
+  - verse_nb: 8
+  - verse_content: "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting."
+  - verse_nb: 9
+  - verse_content: "And let us not be weary in well doing: for in due season we shall reap, if we faint not."
+  - verse_nb: 10
+  - verse_content: "As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith."
+  - verse_nb: 11
+  - verse_content: "Ye see how large a letter I have written unto you with mine own hand."
+  - verse_nb: 12
+  - verse_content: "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ."
+  - verse_nb: 13
+  - verse_content: "For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh."
+  - verse_nb: 14
+  - verse_content: "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world."
+  - verse_nb: 15
+  - verse_content: "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
+  - verse_nb: 16
+  - verse_content: "And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God."
+  - verse_nb: 17
+  - verse_content: "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus."
+  - verse_nb: 18
+  - verse_content: "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen."
