@@ -19,7 +19,7 @@ Frage: Galatian: Landschaft oder Provinz?
 
 (1,3)
 > Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus,
-> χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ πατρὸς καὶ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ 
+> > χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ πατρὸς καὶ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ 
 
 Traditionelle judische Segensformel. 
 Performative Formel. Gnade und Friede zuspricht: Apostolische
@@ -28,7 +28,7 @@ Gnade = Geschenk, nicht erwerbar durch Gesetz
 
 (1,4)
 > der sich *für unsere Sünden hingegeben hat*, um uns aus der gegenwärtigen bösen Welt zu befreien, nach dem Willen unseres Gottes und Vaters.
-> τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν, ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ἐνεστῶτος αἰῶνος πονηροῦ κατὰ τὸ θέλημα τοῦ Θεοῦ καὶ πατρὸς ἡμῶν
+> > τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν, ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ἐνεστῶτος αἰῶνος πονηροῦ κατὰ τὸ θέλημα τοῦ Θεοῦ καὶ πατρὸς ἡμῶν
 
 Christologie: zugunsten/anstelle/für die Glaubenden
 Soteriologie
