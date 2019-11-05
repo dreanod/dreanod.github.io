@@ -31,13 +31,23 @@ und das sie nicht durch das Gesetz erwerbar ist.
 > > τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν *ἁμαρτιῶν* ἡμῶν, ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ἐνεστῶτος αἰῶνος πονηροῦ 
 > > κατὰ τὸ *θέλημα* τοῦ Θεοῦ καὶ πατρὸς ἡμῶν
 
-Christologie: zugunsten/anstelle/für die Glaubenden
-Soteriologie
+Hier betont Paulus ein zentrales Aspekt seiner Christologie un Soteriologie.
+Das Griechisch für *für unsere Sünden hingegeben hat* ist hier mehrdeutig und 
+bedeutet gleichzeitig: "zugunsten/anstelle/für die Glaubenden".
+
+## Proemium
 
 (1,6-9)
-Proemium: typisch Freundlich, Gespräch einsteigen, normalerweise danbarkeit f¨r die Gemeinschaft
-Paul beginnt direkt 
-verflucht -> Anathema
+> TO FILL
+> > TO FILL
+
+Das Proemium ist eine Einführung ins Thema des Briefes. Bei Paulus
+ist das Proemium normalerweise Freundlich. Typisch äussert er Dankbarkeit
+für die Gemeinschaft. Im Galater, beginnt jedoch direkt mit dem Objekt des
+Briefes. Mit dem Wort "verflucht" macht er klar, dass es um eine Anathema
+gibt.
+
+
 nur seine Evangelium kann retten
 Kreuz = Erweis Gnade/Liebe Gottes
 Anderes Evangelium => keine rettende Kraft
@@ -46,9 +56,9 @@ grosse Sorge: Gefahr Gemeinschaft abwendung von Gott und Verkundigung
 Flucht von dem Gott
 
 **Wer sind die Gegner?**
-Problem: keine Charakterisierung
-=> Zwischen den Linien lesen
-Emotional => keine Sachlichkeit
+Ein Problem ist, dass er keine Charakterisierung gibt. Deshalb muss man
+zwischen den Linien lesen. Das andere problem ist, dass Paulus sehr emotional
+in diesem Brief ist. Deshalb sollen wir keine Sachlichkeit erwarten.
 
 Erste Briefe
 1.Thess
