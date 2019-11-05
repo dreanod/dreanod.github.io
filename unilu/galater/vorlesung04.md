@@ -2,7 +2,7 @@
 title: HS19 Der Brief des Apostels Paulus an die Galater
 subtitle: Vorlesung 4
 date: 16/10/2019
-...
+---
 
 ## Prescript
 
