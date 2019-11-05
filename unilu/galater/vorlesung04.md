@@ -6,13 +6,11 @@ date: 16/10/2019
 
 ## Prescript
 
-Apostel nicht vom Menschen.
-Gott Unmittelbarkeit.
-Gott selbst. 
+Hier betont Paul, dass er Apostel nicht von Menschen gemacht wurde, sondern **unmittelbar von Gott selbst**.
 
-Addressanten: an mehere Gemeinschaften
+Die Addressanten sind nicht eine einzige Gemeinschaft, sondern mehere Gemeinschaften, die er gegründet hat.
 
-Ziel: Gesetztfrei universale Verkündigung überzeugen
+Sein Ziel ist, diese Gemeinschaften von einer gesetztfreien universalen Verkündigung überzeugen.
 
 Frage: Galatian: Landschaft oder Provinz?
 ![Bild1.png]
