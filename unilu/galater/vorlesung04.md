@@ -59,6 +59,7 @@ Ein Problem ist, dass er keine Charakterisierung gibt. Deshalb muss man
 zwischen den Linien lesen. Das andere problem ist, dass Paulus sehr emotional
 in diesem Brief ist. Deshalb sollen wir keine Sachlichkeit erwarten.
 
+Das Thema der Gegner entwickelt sich chronologish durch die Briefe Paulus. 
 Erste Briefe
 1.Thess
 1.Kor
