@@ -4,30 +4,32 @@ subtitle: Vorlesung 4
 date: 16/10/2019
 ---
 
-## Prescript
+## Prescript §1
 
 Hier betont Paul, dass er Apostel nicht von Menschen gemacht wurde, sondern **unmittelbar von Gott selbst**.
 
-Die Addressanten sind nicht eine einzige Gemeinschaft, sondern mehere Gemeinschaften, die er gegründet hat.
+**Sein Ziel** ist, diese Gemeinschaften von einer gesetztfreien universalen Verkündigung überzeugen.
 
-Sein Ziel ist, diese Gemeinschaften von einer gesetztfreien universalen Verkündigung überzeugen.
-
-Aber mit welchen Gemeinschaften spricht er? Galatian kann entweder die ganze romanische Provinz von Galatian, oder nur das südlische landschaftliche Gebiet.
-
+**Die Addressanten** sind nicht eine einzige Gemeinschaft, sondern mehere Gemeinschaften, die er gegründet hat.
+Aber mit welchen Gemeinschaften spricht er? Galatian kann entweder die ganze romanische Provinz von Galatian,
+oder nur das südlische landschaftliche Gebiet.
 Diese Frage wird bis heute noch debattiert. Trotzdem, machen wir als ob wir von der ganzen Provinz sprechen.
 
 (1,3)
 > Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus,
-> > χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ πατρὸς καὶ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ 
+> > *χάρις* ὑμῖν καὶ *εἰρήνη* ἀπὸ *Θεοῦ πατρὸς* καὶ *Κυρίου* ἡμῶν Ἰησοῦ Χριστοῦ 
 
 Diese stammt aus einer traditionellen jüdischen Segensformel. 
-Performative Formel. Gnade und Friede zuspricht: Apostolische
-Ergänzt mit Kyrie Jesus
-Gnade = Geschenk, nicht erwerbar durch Gesetz
+Es ist eine performative Formel, die Gnade und Friede zuspricht.
+Sie ist eine apostolische Macht, die vom Kyrie Jesus kommt.
+Im Kontext diese Briefes errinnert sie, das die Gnade ein Geschenk ist,
+und das sie nicht durch das Gesetz erwerbar ist.
 
 (1,4)
-> der sich *für unsere Sünden hingegeben hat*, um uns aus der gegenwärtigen bösen Welt zu befreien, nach dem Willen unseres Gottes und Vaters.
-> > τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν, ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ἐνεστῶτος αἰῶνος πονηροῦ κατὰ τὸ θέλημα τοῦ Θεοῦ καὶ πατρὸς ἡμῶν
+> der sich *für unsere Sünden hingegeben hat*, um uns aus der gegenwärtigen bösen Welt zu befreien, 
+> nach dem Willen unseres Gottes und Vaters.
+> > τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν *ἁμαρτιῶν* ἡμῶν, ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ ἐνεστῶτος αἰῶνος πονηροῦ 
+> > κατὰ τὸ *θέλημα* τοῦ Θεοῦ καὶ πατρὸς ἡμῶν
 
 Christologie: zugunsten/anstelle/für die Glaubenden
 Soteriologie
