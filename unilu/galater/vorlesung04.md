@@ -47,10 +47,9 @@ für die Gemeinschaft. Im Galater, beginnt jedoch direkt mit dem Objekt des
 Briefes. Mit dem Wort "verflucht" macht er klar, dass es um eine Anathema
 gibt.
 
-
-nur seine Evangelium kann retten
-Kreuz = Erweis Gnade/Liebe Gottes
-Anderes Evangelium => keine rettende Kraft
+Paulus will beweisen, dass nur seine Evangelium retten kann, indem das
+Kreuz ein Erweis der Gnade Liebe Gottes ist. Die andere Evangelium haben
+keine rettende Kraft.
 Apostel Berufung
 grosse Sorge: Gefahr Gemeinschaft abwendung von Gott und Verkundigung
 Flucht von dem Gott
@@ -71,10 +70,11 @@ Gegner, entauscht
 Gal
 Phil
 
-antipaulinische, nomistische Front
-=> Reinheitgebote auch fur Pagans
-
-Schattenkampf? => Stilformula
+Es sieht doch so aus, dass es in diesen Briefen um einen antipaulinisches,
+nomistischen Front geht, die wollen, dass die Reinheitgebote auch fur die
+Heiden gelten. Einige Forscher haben vorgeschlagen, dass es um einen
+Schattenkampg geht. Paulus erfindet Gegner als eine Stilformula, um seine
+Botschaft zu betonnen. 
 
 Wanderverkundiger = Anderes Evangelium
 Verlangen Zeichen von Bescheidung
