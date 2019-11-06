@@ -1,5 +1,14 @@
 ---
 layout: test
+chapters:
+  - nb: 1
+    verses:
+      - nb: 1
+        content: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+      - nb: 2
+        content: "And all the brethren which are with me, unto the churches of Galatia:"
+      - nb: 3
+        content: "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
 chapter:
   - paragraph:
     - nb: 1
@@ -35,3 +44,15 @@ chapter:
   {% endfor %}
 </p>
 {% endfor %}
+
+
+{% for chapter in page.chapters %}
+<p>
+<h2>{{ chapter.nb }}</h2>
+  {% for verse in chapter.verses %}
+  <sup>{{ verse.nb }}</sup>{{ verse.content }}
+  {% endfor %}
+</p>
+{% endfor %}
+
+
