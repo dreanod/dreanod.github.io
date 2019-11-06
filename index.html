@@ -16,6 +16,7 @@ text:
 <h1>{{ chapter[0] }}</h1>
 <p>
   {% for verse in chapter[0] %}
+    {{ chapter[0] }}
     <sup>{{ verse[0] }}</sup> {{ verse[1] }}
   {% endfor %}
 </p>
