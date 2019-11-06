@@ -15,7 +15,6 @@ text:
 {% for chapter in page.text %}
 <h1>{{ chapter[0] }}</h1>
 <p>
-      {{ chapter[1] }}
   {% for verse in chapter[1] %}
     <sup>{{ verse[0] }}</sup> {{ verse[1] }}
   {% endfor %}
