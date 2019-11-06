@@ -321,11 +321,11 @@ text:
 ---
 
 
-{% for chapter in page.test.chapters }
+{% for chapter in page.test.chapters %}
 <div class="chapter">
   <strong>{{ chapter.nb }}</strong>
-  {% for verse in chapter.verses }
+  {% for verse in chapter.verses %}
   <sup>{{ verse.nb }}</sup> {{ verse.content }}
-  {% endfor}
+  {% endfor %}
 </div>
-{% endfor}
+{% endfor %}
