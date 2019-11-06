@@ -1,15 +1,23 @@
 ---
 layout: test
-chapter:
-  1: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
-  2: "And all the brethren which are with me, unto the churches of Galatia:"
+text:
+  1:
+    1: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+    2: "And all the brethren which are with me, unto the churches of Galatia:"
+  2:
+    1: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+    2: "And all the brethren which are with me, unto the churches of Galatia:"
 ---
 
 <h1>About page</h1>
 
-{% for item in page.chapter %}
+
+{% for chapter in page.text %}
+<h1>chapter[0]</h1>
 <p>
-  <sup>{{ item[0] }}</sup> {{ item[1] }}
+  {% for verse in chapter[0] %}
+    <sup>{{ item[0] }}</sup> {{ item[1] }}
+  {% endfor %}
 </p>
 {% endfor %}
 
