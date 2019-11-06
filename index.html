@@ -6,11 +6,10 @@ chapter:
 ---
 
 <h1>About page</h1>
-<p>{{ page.hello_text }}</p>
 
 {% for item in page.chapter %}
 <p>
-  {{ item }}
+  <sup>{{ item[0] }}</sup> {{ item[1] }}
 </p>
 {% endfor %}
 
