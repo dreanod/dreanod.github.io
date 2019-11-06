@@ -2,7 +2,7 @@
 layout: default
 title: Galatian
 source: Exported from Wikisource on 10/19/19
----
+text:
 - Chapter 1:
   - verse_nb: 1
   - verse_content: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
@@ -307,3 +307,5 @@ source: Exported from Wikisource on 10/19/19
   - verse_content: "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus."
   - verse_nb: 18
   - verse_content: "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen."
+---
+
