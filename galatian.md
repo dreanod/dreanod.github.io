@@ -2,6 +2,17 @@
 layout: default
 title: Galatian
 source: Exported from Wikisource on 10/19/19
+test:
+  chapters:
+    - nb: 1
+      verses:
+        - nb: 1
+          content: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+        - nb: 2
+          content: "And all the brethren which are with me, unto the churches of Galatia:"
+        - nb: 3
+          content: "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
+        
 text:
 - Chapter 1:
   - verse_nb: 1
@@ -309,3 +320,12 @@ text:
   - verse_content: "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen."
 ---
 
+
+{% for chapter in page.test.chapters }
+<div class="chapter">
+  <strong>{{ chapter.nb }}</strong>
+  {% for verse in chapter.verses }
+  <sup>{{ verse.nb }}</sup> {{ verse.content }}
+  {% endfor}
+</div>
+{% endfor}
