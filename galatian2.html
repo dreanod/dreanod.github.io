@@ -157,25 +157,34 @@ text:
     18: "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen."
 ---
 
-<style>
-.wrapper {
-  font-family: Palatino;
-  font-size: 16px;
-  max-width: 35em;
-}
-</style>
+<html style="" lang="en-US">
+<head>
+  <style>
+    .wrapper {
+      font-family: Palatino;
+      font-size: 16px;
+      max-width: 35em;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <section>
+      <h1>Galatian</h1>
 
-<div class="wrapper">
+        {% for chapter in page.text %}
+        <h1>{{ chapter[0] }}</h1>
+        <p>
+          {% for verse in chapter[1] %}
+            <sup>{{ verse[0] }}</sup> {{ verse[1] }}
+          {% endfor %}
+        </p>
+        {% endfor %}
+    </section>
+  </div>
+</body>
+</html>
 
-<h1>Galatian</h1>
 
-{% for chapter in page.text %}
-<h1>{{ chapter[0] }}</h1>
-<p>
-  {% for verse in chapter[1] %}
-    <sup>{{ verse[0] }}</sup> {{ verse[1] }}
-  {% endfor %}
-</p>
-{% endfor %}
 
-</div>
+
