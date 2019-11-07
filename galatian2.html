@@ -163,7 +163,6 @@ text:
     .wrapper {
       font-family: Palatino;
       font-size: 16px;
-      max-width: 35em;
       box-sizing: content-box;
       display: block;
       max-width:650px;
@@ -181,20 +180,46 @@ text:
     article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
      display:block
     }
+    .column.left {
+      max-width: 75px;
+      background-color: green;
+    }
+    .column.right {
+      max-width: 75px;
+      background-color: blue;
+    }
+    .column.center {
+      max-width: 500px;
+      background-color: white;
+    }
   </style>
+  
+  
+  
+  
 </head>
 <body>
   <div class="wrapper">
     <section>
       <h1>Galatian</h1>
-
         {% for chapter in page.text %}
-        <h1>{{ chapter[0] }}</h1>
+        <div class="row">
+          
+        <div class="column left">
+          <h1>{{ chapter[0] }}</h1>
+        </div>
+      
+        <div class="column center">
         <p>
           {% for verse in chapter[1] %}
             <sup>{{ verse[0] }}</sup> {{ verse[1] }}
           {% endfor %}
         </p>
+        </div>
+          
+        <div class="column right"></div>
+        
+        </div>
         {% endfor %}
     </section>
   </div>
