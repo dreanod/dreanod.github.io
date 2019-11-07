@@ -163,7 +163,7 @@ text:
     .wrapper {
       font-family: Palatino;
       font-size: 16px;
-      box-sizing: content-box;
+      box-sizing: border-box;
       display: block;
       max-width:650px;
       margin:0 auto;
@@ -181,16 +181,22 @@ text:
      display:block
     }
     .column.left {
-      max-width: 75px;
+      width: 75px;
       background-color: green;
     }
     .column.right {
-      max-width: 75px;
+      width: 75px;
       background-color: blue;
     }
     .column.center {
-      max-width: 500px;
+      width: 500px;
       background-color: white;
+    }
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
     }
   </style>
   
