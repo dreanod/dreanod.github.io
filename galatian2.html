@@ -160,39 +160,28 @@ text:
 <html style="" lang="en-US">
 <head>
   <style>
-.some-page-wrapper {
-  display: flex;
-  margin: 15px;
-  background-color: red;
-}
 
 .row {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 100%;
+    margin: 0 auto;
+    width: 650px;
 }
 
-.column {
-  display: flex;
-  flex-direction: column;
-  flex-basis: 100%;
-  flex: 1;
+.content {
+    float: left;
+    background: #FFFFFF;
+    width: 350px;
 }
 
-.left-column {
-  background-color: orange;
-  height: 100px;
+.leftcolumn {
+    background: #33CCFF;
+    width: 150px;
+    float: left;
 }
 
-.center-column {
-  background-color: blue;
-  height: 100px;
-}
-
-.right-column {
-  background-color: green;
-  height: 100px;
+.rightcolumn {
+    background: #CC33FF;
+    width: 150px;
+    float: left;
 }
   </style>
   
@@ -207,32 +196,25 @@ text:
 <body>
     
   <h1>Galatian</h1>
-  
-    <div class='some-page-wrapper'>
-      {% for chapter in page.text %}
-      <div class='row'>
-        <div class='column'>
-          <div class='left-column'>
-            <h1>{{ chapter[0] }}</h1>
-          </div>
-        </div>
-        <div class='column'>
-          <div class='center-column'>
-            <p>
-              {% for verse in chapter[1] %}
-                <sup>{{ verse[0] }}</sup> {{ verse[1] }}
-              {% endfor %}
-            </p>
-          </div>
-        </div>
-            <div class='column'>
-          <div class='right-column'>
-            Some Text in Column Three
-          </div>
-        </div>
-      </div>
-      {% endfor %}
+
+  {% for chapter in page.text %}
+  <div class='row'>
+    <div class='leftcolumn'>
+      <h1>{{ chapter[0] }}</h1>
     </div>
+    <div class='content'>
+      <p>
+        {% for verse in chapter[1] %}
+          <sup>{{ verse[0] }}</sup> {{ verse[1] }}
+        {% endfor %}
+      </p>
+    </div>
+    <div class='rightcolumn'>
+      Some Text in Column Three
+    </div>
+  </div>
+  {% endfor %}
+
 
 </body>
 </html>
