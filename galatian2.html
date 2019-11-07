@@ -160,78 +160,80 @@ text:
 <html style="" lang="en-US">
 <head>
   <style>
-    .wrapper {
-      font-family: Palatino;
-      font-size: 16px;
-      box-sizing: border-box;
-      display: block;
-      max-width:650px;
-      margin:0 auto;
-      position:relative;
-      padding: 0 20px;
-      background-color: grey;
-    }
-    body {
-      margin:0;
-      padding:0px 0 20px 0px;
-      margin:0px;
-      background-color: black;
-    }
-    article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
-     display:block
-    }
-    .column {
-      float: left;
-    }
-    .column.left {
-      width: 75px;
-      background-color: green;
-    }
-    .column.right {
-      width: 75px;
-      background-color: blue;
-    }
-    .column.center {
-      width: 500px;
-      background-color: white;
-    }
-    /* Clear floats after the columns */
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
+.some-page-wrapper {
+  display: flex;
+  margin: 15px;
+  background-color: red;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.left-column {
+  background-color: orange;
+  height: 100px;
+}
+
+.center-column {
+  background-color: blue;
+  height: 100px;
+}
+
+.right-column {
+  background-color: green;
+  height: 100px;
+}
   </style>
   
   
   
+
+
+
+
   
 </head>
 <body>
-  <div class="wrapper">
-    <section>
-      <h1>Galatian</h1>
-        {% for chapter in page.text %}
-        <div class="row">
-          
-        <div class="column left">
-          <h1>{{ chapter[0] }}</h1>
+    
+  <h1>Galatian</h1>
+  
+    <div class='some-page-wrapper'>
+      {% for chapter in page.text %}
+      <div class='row'>
+        <div class='column'>
+          <div class='left-column'>
+            <h1>{{ chapter[0] }}</h1>
+          </div>
         </div>
-      
-        <div class="column center">
-        <p>
-          {% for verse in chapter[1] %}
-            <sup>{{ verse[0] }}</sup> {{ verse[1] }}
-          {% endfor %}
-        </p>
+        <div class='column'>
+          <div class='center-column'>
+            <p>
+              {% for verse in chapter[1] %}
+                <sup>{{ verse[0] }}</sup> {{ verse[1] }}
+              {% endfor %}
+            </p>
+          </div>
         </div>
-          
-        <div class="column right"></div>
-        
+            <div class='column'>
+          <div class='right-column'>
+            Some Text in Column Three
+          </div>
         </div>
-        {% endfor %}
-    </section>
-  </div>
+      </div>
+      {% endfor %}
+    </div>
+
 </body>
 </html>
 
