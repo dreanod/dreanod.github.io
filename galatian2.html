@@ -192,8 +192,8 @@ text:
         background-color: yellow;
     }
 
-    .content {
-        width: 500px;
+    p {
+        width: 600px;
     }
     
     sup {
@@ -215,13 +215,11 @@ text:
     {% for chapter in page.text %}
     <section>
       <h2>{{ chapter[0] }}</h2>
-      <div class='content'>
-        <p>
-          {% for verse in chapter[1] %}
-            <sup>{{ verse[0] }}</sup> {{ verse[1] }}
-          {% endfor %}
-        </p>
-      </div>
+      <p>
+        {% for verse in chapter[1] %}
+          <sup>{{ verse[0] }}</sup> {{ verse[1] }}
+        {% endfor %}
+      </p>
     </section>
     {% endfor %}
   </main>
