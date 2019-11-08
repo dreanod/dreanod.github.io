@@ -160,31 +160,27 @@ text:
 <html style="" lang="en-US">
 <head>
   <style>
-sup {
-  display: none;
-}
-.row {
-    margin: 0 auto;
-    width: 650px;
-}
 
-.content {
-    float: left;
-    background: #FFFFFF;
-    width: 350px;
+body {
+  background-color: lightgrey;
+}
+    
+.wrapper {
+  width: 650px;
+  margin: 0 auto;
+}
+    
+.row {
+    display: flex;
 }
 
 .leftcolumn {
-    background: #33CCFF;
     width: 150px;
-    float: left;
 }
 
-.rightcolumn {
-    background: #CC33FF;
-    width: 150px;
-    float: left;
-}
+.content {
+    width: 500px;
+}   
   </style>
   
   
@@ -196,28 +192,26 @@ sup {
   
 </head>
 <body>
+  <div class='wrapper'>
     
-  <h1>Galatian</h1>
+    <h1>Galatian</h1>
 
-  {% for chapter in page.text %}
-  <div class='row'>
-    <div class='leftcolumn'>
-      <h1>{{ chapter[0] }}</h1>
+    {% for chapter in page.text %}
+    <div class='row'>
+      <div class='leftcolumn'>
+        <h1>{{ chapter[0] }}</h1>
+      </div>
+      <div class='content'>
+        <p>
+          {% for verse in chapter[1] %}
+            <sup>{{ verse[0] }}</sup> {{ verse[1] }}
+          {% endfor %}
+        </p>
+      </div>
     </div>
-    <div class='content'>
-      <p>
-        {% for verse in chapter[1] %}
-          <sup>{{ verse[0] }}</sup> {{ verse[1] }}
-        {% endfor %}
-      </p>
-    </div>
-    <div class='rightcolumn'>
-      Some Text in Column Three
-    </div>
+    {% endfor %}
+    
   </div>
-  {% endfor %}
-
-
 </body>
 </html>
 
