@@ -185,8 +185,8 @@ text:
         display: flex;
     }
 
-    .leftcolumn {
-        width: 150px;
+    h2 {
+        width: 50px;
         position: -webkit-sticky; /* Safari */
         position: sticky;
         background-color: yellow;
@@ -214,9 +214,7 @@ text:
   <main>
     {% for chapter in page.text %}
     <section>
-      <div class='leftcolumn'>
-        <h2>{{ chapter[0] }}</h1>
-      </div>
+      <h2>{{ chapter[0] }}</h2>
       <div class='content'>
         <p>
           {% for verse in chapter[1] %}
