@@ -164,6 +164,11 @@ text:
       background-color: lightgrey;
     }
     
+    h2 {      
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+    }
+    
     div {
       padding: 0px;
       border: 1px dashed;
@@ -208,7 +213,7 @@ text:
     {% for chapter in page.text %}
     <div class='row'>
       <div class='leftcolumn'>
-        <h1>{{ chapter[0] }}</h1>
+        <h2>{{ chapter[0] }}</h1>
       </div>
       <div class='content'>
         <p>
