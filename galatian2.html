@@ -194,20 +194,18 @@ text:
       display: none;
     }
   </style>
-  
-  
-  
 
 
-
-
-  
 </head>
 <body>
-  <main>
-    
+  
+  <nav>Navigation</nav>
+  
+  <header>
     <h1>Letter to Galatian</h1>
-
+  </header>
+  
+  <main>
     {% for chapter in page.text %}
     <div class='row'>
       <div class='leftcolumn'>
@@ -222,8 +220,12 @@ text:
       </div>
     </div>
     {% endfor %}
+  </main>
     
-  <main>
+  <footer>
+    <em>The footer</em>
+  </footer>
+  
 </body>
 </html>
 
