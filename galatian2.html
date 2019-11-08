@@ -181,7 +181,7 @@ text:
       background-color: white;
     }
 
-    .row {
+    section {
         display: flex;
     }
 
@@ -213,7 +213,7 @@ text:
   
   <main>
     {% for chapter in page.text %}
-    <div class='row'>
+    <section>
       <div class='leftcolumn'>
         <h2>{{ chapter[0] }}</h1>
       </div>
@@ -224,7 +224,7 @@ text:
           {% endfor %}
         </p>
       </div>
-    </div>
+    </section>
     {% endfor %}
   </main>
     
