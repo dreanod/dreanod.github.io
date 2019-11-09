@@ -180,19 +180,21 @@ text:
 
     section {
         display: flex;
+	flex-wrap: wrap;
     }
 
     h2 {
         width: 50px;
-        position: -webkit-sticky; /* Safari */
-        position: sticky;
         background-color: yellow;
     }
 
     p {
         width: 600px;
+	align: right;
+	flex-shrink: 0;
     }
-    
+
+
     sup {
       display: none;
     }
@@ -212,6 +214,7 @@ text:
     {% for chapter in page.text %}
     <section>
       <h2>{{ chapter[0] }}</h2>
+      <article>
       {% for paragraph in chapter[1] %}
       <p>
         {% for verse in paragraph %}
@@ -221,6 +224,7 @@ text:
         {% endfor %}
       </p>
       {% endfor %}
+      </article>
     </section>
     {% endfor %}
   </main>
