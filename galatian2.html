@@ -259,11 +259,11 @@ text:
       <p>
         {% for verse in paragraph %}
         <span class='verse'>
-          <sup>{{ verse[0] }}</sup>
-          {{ verse[1] }}
-          <span class='verse-ref'>
+	  <span class='verse-ref'>
             <a href='#'>{{ page.abbreviation }}-{{ chapter[0] }};{{ verse[0] }}</a>
           </span>
+          <sup>{{ verse[0] }}</sup>
+          {{ verse[1] }}
         </span>
         {% endfor %}
       </p>
