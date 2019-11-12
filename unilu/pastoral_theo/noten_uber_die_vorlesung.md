@@ -1,6 +1,7 @@
 ---
 date: 10.11.2019
 title: Grundlagen der Pastoraltheologie
+author: Dr. Stephanie Klein
 ---
 
 
