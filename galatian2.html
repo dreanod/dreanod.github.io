@@ -163,7 +163,7 @@ text:
 <head>
   <style>
     /* BEGIN: Help for design */
-/*
+
     nav, header, h1, main, section, h2, article,  p, aside, footer {
       outline: dashed 1px;
     }
@@ -277,10 +277,11 @@ text:
   </header>
   
   <main>
+	  
+    <h1>{{ page.title }}</h1>	    
+	  
     {% for chapter in page.text %}
     <section>
-
-      <h1>{{ page.title }}</h1>	    
 
       <h2>{{ chapter[0] }}</h2>
 
