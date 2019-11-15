@@ -66,6 +66,55 @@ Definition: die theologische Theorie der Praxis
 
 ## 3 Signaturen der spätmodernen Gesellschaft
 
+
+Glauben in Auseinandersetzung mit anderen Menschen
+Lehre der Kirche
+Nicht mehr die ganze Weltanschauung Wirklichkeit
+geschrunk zu einem kleinem Teil des Lebens
+
+*Pluralis
+
+### 3.2 Indiviluasirung
+
+-> Mehrere Phanomenen
+Xum zentral Motor der Ind.
+Augustinus
+Ind. Namen => Taufe - Versohnung
+
+Burgerschaft
+Frauen/ Verteilung
+Wahl
+Auch Innerhalb Gruppen (eg Migranten)
+
+Peter Berg
+> Metaerzahlung. 
+Erfassung der Welt
+nicht auf Individumm zentriert.
+
+Pluralitaet der Wahrheit => Lebenslange Konfession nicht mehr eine selbstverstandnis.
+
+### 3.2.1 Geschichte
+
+### 3.2.2 Individualiseier
+
+Selbsauffassung Moderne/Vormoderne Gesellschaft
+Vorher -> Vom Geburt (Geschlecht, Ort, Familie)
+
+Krankheit und Tod...
+Lebenszeit wird langer
+Entdeckung Americas -> Bewusstsein der Grosse der Welt (?)
+
+### 3.3.3 Indentitat
+
+Standig Konflikte uber Identitat
+
+>
+
+Kongruenz des Lebens: Jede person muss selbst enscheiden
+
+
+Armut und Globalisierung => Neue Themen
+
 ## 4 Glaube und Kirche in der Welt von heute
 
 ## 5 Methode und Vorgehen in der Praktischen Theologie
