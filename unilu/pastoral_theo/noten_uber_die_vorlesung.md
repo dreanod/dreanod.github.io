@@ -4,8 +4,7 @@ title: Grundlagen der Pastoraltheologie
 author: Dr. Stephanie Klein
 ---
 
-
-# Teil I: Grundlagen
+# Teil I: Grundlagen ############################################################
 
 ## 0 Einführung, Literatur, Organisation
 
@@ -15,6 +14,7 @@ author: Dr. Stephanie Klein
 - Haslinger, Herbert: Pastoraltheologie. Paderborn 2015.
 - Haslinger, Herbert zus. mit Christiane Bundschuh-Schramm/ Ottmar Fuchs/ Leo Karrer/ Stephanie Klein/ Stefan Knobloch/ Gundelinde Stoltenberg (Hg.): Praktische Theologie. Ein Handbuch.
 - Mette, Norbert: Einführung in die katholische Praktische Theologie. Darmstadt 2005.
+
 
 ## 1 Was ist Pastoraltheologie? Begriff, Gegenstand, Handlungsfelder, Geschichte
 und Ort im Kontext von Theologie und Studium
@@ -36,11 +36,11 @@ Definition: die theologische Theorie der Praxis
 > Selbstvollzug der Kirche beschäftigt mittels der theologischen Erhellung der
 > jeweils gegebenen Situation, in der die Kirche sich selbst in allen ihren
 > Dimensionen vollziehen muß.
-> > Karl Rahner: Die Praktische Theologie im Ganzen der Theologischen
-> > Disziplinen. In: Ders.: Schriften zur Theologie VIII, Einsiedeln 1967,
-> > 133-149, Zitat: ebd., 134.
+> *Karl Rahner, Die Praktische Theologie im Ganzen der Theologischen
+> Disziplinen. In: Ders.: Schriften zur Theologie VIII, Einsiedeln 1967,
+> 133-149, Zitat: ebd., 134.*
 
-Welche Gegenstandbereich?
+**Welche Gegenstandbereich?**
 
 - Reflexion der Praxis des Pfarrers oder Pastors?
 - Reflexion der Praxis der hauptamtlichen Amtsträger?
@@ -53,20 +53,17 @@ Welche Gegenstandbereich?
 
 > Gegenstand der Praktischen Theologie sind die Praxis der Christinnen und
 > Christen und das Leben all jener Menschen und Geschöpfe, die ihnen in
-> besonderer Weise aufgegeben sind. (S. Klein)
-
-### Pastoraltheologie im Kontext der anderen theologischen Disziplinen an der
-Universität Luzern
-
-### Das Studienangebot in Pastoraltheologie an der Universität Luzern.
+> besonderer Weise aufgegeben sind. *S. Klein*
 
 ### Zur Geschichte der Praktischen Theologie als Universitätsdisziplin
 
-## 2 Zur theologischen Grundlegung und Ausrichtung der Pastoraltheologie durch das
-Zweite Vatikanische Konzil
+## 2 Zur theologischen Grundlegung und Ausrichtung der Pastoraltheologie durch dasZweite Vatikanische Konzil
 
 
-# Teil II: Praktische Theologie in der Welt von heute
+
+
+
+# Teil II: Praktische Theologie in der Welt von heute ############################################################
 
 ## 3 Signaturen der spätmodernen Gesellschaft
 
@@ -74,8 +71,7 @@ Zweite Vatikanische Konzil
 
 ## 5 Methode und Vorgehen in der Praktischen Theologie
 
-## 6 Die Grundvollzüge und die Drei-Ämter-Theologie: Versuche der Systematiserung
-der Handlungsvollzüge chrislicher Praxis
+## 6 Die Grundvollzüge und die Drei-Ämter-Theologie: Versuche der Systematiserung der Handlungsvollzüge chrislicher Praxis
 
 ## 7 Die Options
 
