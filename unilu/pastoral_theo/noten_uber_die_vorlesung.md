@@ -16,8 +16,7 @@ author: Dr. Stephanie Klein
 - Mette, Norbert: Einführung in die katholische Praktische Theologie. Darmstadt 2005.
 
 
-## 1 Was ist Pastoraltheologie? Begriff, Gegenstand, Handlungsfelder, Geschichte
-und Ort im Kontext von Theologie und Studium
+## 1 Was ist Pastoraltheologie? Begriff, Gegenstand, Handlungsfelder, Geschichte und Ort im Kontext von Theologie und Studium
 
 ### Die Begriffe Pastoraltheologie -- Praktische Theologie
 
@@ -57,7 +56,7 @@ Definition: die theologische Theorie der Praxis
 
 ### Zur Geschichte der Praktischen Theologie als Universitätsdisziplin
 
-## 2 Zur theologischen Grundlegung und Ausrichtung der Pastoraltheologie durch dasZweite Vatikanische Konzil
+## 2 Zur theologischen Grundlegung und Ausrichtung der Pastoraltheologie durch das Zweite Vatikanische Konzil
 
 
 
