@@ -190,10 +190,11 @@ text:
 
     /* END: Help for design */
     
-    nav {
+  nav {
         font-size: 32px;
 	font-style: bold;
 	position: sticky;
+       
 	top: 0px;
 	width: 40px;
     }
@@ -201,16 +202,24 @@ text:
 	  
     body {
       	font-size: 16px;
-	font-family: Georgia;
+        margin:0 0 0 0;
+        font-family: Georgia;
     }
   
     header {
-	margin: 0 auto;
-	width: 650px;
-	height: 50px;
-	position: sticky;
-	top: 0px;
-	background-color: white;
+        margin: 0 auto;
+        width: 650px;
+        height: 50px;
+        text-align: center;
+        position: sticky;
+        top: 0px;
+        background-color: white;
+        z-index: 99;
+    }
+
+    header > em {
+        position: relative;
+        top: 20px
     }
 
     .title-container {
