@@ -214,6 +214,39 @@ Suchen Heil Gottes mit bibl. Augen
 
 ## 4 Glaube und Kirche in der Welt von heute
 
+Wie hat sich die moderne in unserem Glauben
+Ind. des Glauben
+Pluralisierung der Gesellschaft
+Ansatze der Regiliositat
+Wie die Formen der Religiositat in der modernen 
+Vielfalt der Religionen
+
+### 4.1 Ind des Glaubens
+
+Mensch Selbst reflecktierte, selbst-bestimmte
+Das Ind kann sich selbst entscheiden
+Veranderung zwischen Generationen
+Altere Generation: Frage der Autentizitat des Glaubens
+
+### 4.2 Veranderaung ... der SinnWelt
+
+Xen haben diak. Auf
+Aber weiniger Orte, die die Kirche erreichen kann
+Glaubinger. lumen Gentium 31
+
+### 4.3 Rel in Bezug der Moderne 
+
+Edmond Arendts
+Sakulasierungstheorie
+Gegenaspekte
+Privatisierung
+Casanova
+
+Oesterreich
+vs Deutschland/Schweiz -> Staatliche Islam gefordert
+
+
+
 ## 5 Methode und Vorgehen in der Praktischen Theologie
 
 ## 6 Die Grundvollzüge und die Drei-Ämter-Theologie: Versuche der Systematiserung der Handlungsvollzüge chrislicher Praxis
