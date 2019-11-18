@@ -115,6 +115,103 @@ Kongruenz des Lebens: Jede person muss selbst enscheiden
 
 Armut und Globalisierung => Neue Themen
 
+### 3.5 Okonomisierung des Sozials
+
+Erfolgreicher Mensch = Wirtschaft
+Wirtschaftsystems => Spezialitat, Flexibilitat,... Individuelle
+=> Belastung des Soziales.
+
+Tauschgesellschaft
+Selbstverstande der Menschen
+Sprachwandel
+zB "Kunde" in Sozialenbereich
+JB Metz => Kritisierung
+=> Tiefkrise
+
+Okonomisierung der Selbst
+Selbstauffassung => Unternehmerisches Subjekt
+Selbstoptimierung, etc
+=> nie fertig, nie zufrieden mit selbst.
+nicht gut, sondern das Beste => Uberforderung
+
+=> Selbstschuld
+sich immer uberfordern, aber zugleich fur sich pflegen.
+-> Medikation
+Verantwortung fur sein Leben=> Nur das Individuum
+
+=> Alkoholismus, Depression, Drogen
+
+Alain Ehrenberg
+=> Reaktion Selbstverwirklichung.
+-> Depression
+
+
+### 3.6 Die Digitalisierung
+
+Epochalwende?
+
+Beschleunigungfaktor der Globalisierung.
+
+Doppelgesicht
+- ww rasch Kommunikation und Zugang zu Wissen
+- Demokratisierung des Wissens
+- Neue Herrschaft Monopolen
+
+Daten und Privacy  => ganz unkontrolliert
+
+### 3.7 Beschleunigung und Entfremdung
+
+### 3.7.1
+
+Wachsende Beschleuningung
+*B und E* -> Literatur
+1) Tecknische B -> Transport, Kommunikationsprozess
+2) Sozialwandel Einstellung, Sprachmusters, Sozialnetzwerk, Lebenstile, Konsumguter
+3) Lebenstempos, erlegidgen, erleben, Multitasking, Mehrere Jobs, 
+
+B. Zirkel -> Biol. Grenzen
+Entschleugnigt => Burnout, 
+Stadtmarathon -> Laufen immer schnellen
+
+Ind. Austeiger
+Gruppen wie Amischer
+Landwirtschaft Ruckkeht
+3. Int. Entschleuningung
+Kloster, Sabbatikal, ... Simplifizierung
+4. Fond Gruppen, die sich entziehen aber Dit benutzen
+5. Entzug Erscheinung, temporar
+
+Subjektive B. der Zeit, je mehr alter wird
+je mehr tut man, je weniger wahrnehmung -> Erinnerung
+
+Fahigkeit verloren, sich zu konzentrieren
+Wichtigkeit verloren.
+Responsivitat der Welt => Religon und Kunst.
+
+Sabbath => Entschleunigung Moment
+
+### 3.8 X. Perspektive
+
+### 3.8.1 Beitrag der Kirche
+
+Ind und Kollektive Kollaps
+JC keine Macht und Reichtum
+Der Glaube errinnert das Oko nicht alles,
+Wurde der Menschen nicht im Geld
+Heil Gottes, Heil fur alle Menschen.
+Heil fur die Schopfung. 
+Alle Menchen in einem umfassend Heil leben. 
+=> Neue Beziehung zu sich selbst
+-> Neue Zusammenleben -> Liebe, Gnade und Barmherzigkeit. 
+
+**Die Zeichen der Zeit**
+-> Heilszeichen Gottes in der Welt
+In der Welt => Hoffnungszeichen
+
+Humanenloesungen
+Suchen Heil Gottes mit bibl. Augen
+
+
 ## 4 Glaube und Kirche in der Welt von heute
 
 ## 5 Methode und Vorgehen in der Praktischen Theologie
