@@ -245,6 +245,20 @@ Casanova
 Oesterreich
 vs Deutschland/Schweiz -> Staatliche Islam gefordert
 
+*4VL3*
+### 4.4 Veranderung der Glauben
+
+4.4.1 Innerkirchlien
+
+Neue pluralitat => Spaltung
+Karl Grabriel *Xtum zwischen Postmodernismum und Trad*
+Ausdiffizirung
+
+5 Sektoren
+- Fundamentislchen: Sicherheit in Vorkonzilismus
+- Kirchlichkeit: durch die Anderen, Betreuungsmentalitat. Pastoral/Gemeindebildung.
+- Ind Pragung. Es. Stromungen. Diffus
+- FormalOrg. 
 
 
 ## 5 Methode und Vorgehen in der Praktischen Theologie
