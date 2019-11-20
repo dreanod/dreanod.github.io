@@ -261,7 +261,55 @@ Ausdiffizirung
 - FormalOrg. 
 
 
+### 4.4.2 Pluralismas der Religionen
+
+Marktwirtschaft der Religionen
+Hilfmittel gegen Sinnlosigkeit
+Sekten
+zB Scientologie
+
+Sexuele Missbrauch
+
+*4VL4*
+Risikogesellschaft
+Leistunggesellschaft
+=> Ungenugende Gefuhl
+Sinn des Lebens? Lebengestaltung?
+
+- Umbruch als Ort des Glaubens
+- Lebenspraxis
+- Resource fur Solidaritat
+- Deutungsgemeinschaft zwischen Partikularitat und universalitat
+
+## 4.5 Glob. als Herausforderung fur Glaubiger
+
+Fluchtlinge, Bereich des Dialogs
+
+Diakonie 
+Armutsrate
+
+Integration der Einwanderen?
+
+*5VL1*
+
 ## 5 Methode und Vorgehen in der Praktischen Theologie
+
+### 5.1 Aus der Praxis, fur die Praxis
+
+Josef Kadein
+Lebensgeschichte. Engagement mit den Arbeitern.
+
+*5VL2*
+
+#### 5.1.2 .. Praxisorienteir Bildungsweise
+
+Konkrete Weise entwickelt
+Theologie 
+Premiss => Rettung und Wurde jedes Menschen
+Ziel => Lebenswurdigkeit.
+Leben is das Ziel
+Methode soll handlungsfahig sein
+
 
 ## 6 Die Grundvollzüge und die Drei-Ämter-Theologie: Versuche der Systematiserung der Handlungsvollzüge chrislicher Praxis
 
