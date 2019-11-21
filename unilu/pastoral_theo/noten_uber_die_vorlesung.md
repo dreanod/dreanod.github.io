@@ -66,6 +66,12 @@ Definition: die theologische Theorie der Praxis
 
 ## 3 Signaturen der spätmodernen Gesellschaft
 
+### 3.1 Strukturelle Differenzierung und Pluralisierung
+
+-	Strukturelle Differenzierung in der Moderne.
+-	Fragmentierung des Lebens.
+-	Pluralisierung der Weltanschauungen.
+
 
 Glauben in Auseinandersetzung mit anderen Menschen
 Lehre der Kirche
@@ -93,9 +99,9 @@ nicht auf Individumm zentriert.
 
 Pluralitaet der Wahrheit => Lebenslange Konfession nicht mehr eine selbstverstandnis.
 
-### 3.2.1 Geschichte
+### 3.2.1 Zur Geschichte der Individualisierung
 
-### 3.2.2 Individualiseier
+### 3.2.2 Das Individuum in der vormodernen und der modernen Gesellschaft
 
 Selbsauffassung Moderne/Vormoderne Gesellschaft
 Vorher -> Vom Geburt (Geschlecht, Ort, Familie)
@@ -104,18 +110,49 @@ Krankheit und Tod...
 Lebenszeit wird langer
 Entdeckung Americas -> Bewusstsein der Grosse der Welt (?)
 
-### 3.3.3 Indentitat
+### 3.2.3 Indentitat
 
 Standig Konflikte uber Identitat
 
 >
 
+### 3.2.4 Die Notwendigkeit der Entscheidung
+
 Kongruenz des Lebens: Jede person muss selbst enscheiden
 
+### 3.2.5 Auflösung von Zurechnungskategorien und Biographisierung des Lebens
+
+### 3.2.6 Neue Formen der Vergemeinschaftung: Individualisierung der Lebensformen
+
+### 3.2.7 Was bedeutet Individualisierung für die Pastoraltheologie?
 
 Armut und Globalisierung => Neue Themen
 
-### 3.5 Okonomisierung des Sozials
+## 3.3 Prozesse der weitergehenden Modernisierung
+
+„Postmoderne“ (Jean Francois Lyotard), „Spätmoderne“, „verschärfte Moderne“, reflexive Modernisierung“ (Ulrich Beck), „zweite Moderne“, „andere Moderne“, Modernisierung moderner Gesellschaften“, weitergehende Modernisierung (ongoing modernization).
+- Auf der philosophischen Ebene - das postmoderne Wissen (Jean Francois Lyotard):
+     - die Erfahrung der Inhumanität des Menschen trotz und mit Hilfe des
+        Fortschritts.
+- Auf der gesellschaftlichen Ebene: 
+      -  die gefährlichen Folgen des menschlichen Fortschritts.
+
+## 3.4 Globalisierung
+
+-  	Globalisierung als komplexe, weltweite Zusammenhänge.
+-  	Globalisierung als politische und wirtschaftliche Umstrukturierung der Gesellschaften.
+-  	Globalisierung als paradoxer Begriff.
+
+
+
+## 3.5 Okonomisierung des Sozialen
+
+-	Der individualisierte flexible Mensch als Erfordernis der Wirtschaft.
+- 	Tauschgesellschaft.
+-	Ökonomisierung des Selbst – das unternehmerische Subjekt.
+-	Das erschöpfte Selbst.
+
+
 
 Erfolgreicher Mensch = Wirtschaft
 Wirtschaftsystems => Spezialitat, Flexibilitat,... Individuelle
@@ -159,9 +196,8 @@ Doppelgesicht
 
 Daten und Privacy  => ganz unkontrolliert
 
-### 3.7 Beschleunigung und Entfremdung
+## 3.7 Beschleunigung und Entfremdung
 
-### 3.7.1
 
 Wachsende Beschleuningung
 *B und E* -> Literatur
@@ -190,9 +226,20 @@ Responsivitat der Welt => Religon und Kunst.
 
 Sabbath => Entschleunigung Moment
 
-### 3.8 X. Perspektive
+## 3.8 Christliche Perspektiven für eine andere Gesellschaft
 
-### 3.8.1 Beitrag der Kirche
+### 3.8.1 Der Beitrag von Theologie und Kirche zu den Entwicklungen der Gesellschaft
+
+- 	Erinnerung an Würde und Wert des Menschen.
+- 	Erinnerung an das Heil Gottes für alle Menschen und die ganze Schöpfung.
+- 	Die Beziehung zu Gott ermöglicht eine neue Beziehung des Menschen zu sich selbst.
+- 	Erinnerung an die Möglichkeit eines Zusammenlebens auf der Grundlage der Zuwendung zu den Schwachen. 
+- 	Die Liebe, Gnade und Barmherzigkeit, geschenkt „umsonst“, durchbrechen das Tauschdenken.
+- 	Dieser Glaube erwartet das Heil für die Menschen nicht aus der unermüdlichen Leistung des Menschen, sondern aus Gottes Zuwendung, die zugleich der Grund für die Praxis der Zuwendung der Menschen zueinander ist.
+- 	Heil nicht aus Eigenleistung des Menschen, sondern aus der Zuwendung Gottes – als Grund für die Zuwendung der Menschen untereinander.
+
+
+
 
 Ind und Kollektive Kollaps
 JC keine Macht und Reichtum
@@ -204,12 +251,20 @@ Alle Menchen in einem umfassend Heil leben.
 => Neue Beziehung zu sich selbst
 -> Neue Zusammenleben -> Liebe, Gnade und Barmherzigkeit. 
 
-**Die Zeichen der Zeit**
+### 3.8.2 Die Zeichen der Zeit
+
 -> Heilszeichen Gottes in der Welt
 In der Welt => Hoffnungszeichen
 
 Humanenloesungen
 Suchen Heil Gottes mit bibl. Augen
+
+Die Zeichen der Zeit sind Heilszeichen, Spuren Gottes in der Welt. 
+
+„Zur Erfüllung dieses ihres Auftrags obliegt der Kirche allzeit die Pflicht, nach den Zeichen der Zeit zu forschen und sie im Licht des Evangeliums zu deuten.“ (GS 4)
+
+„Im Glauben daran, dass es vom Geist des Herrn geführt wird, der den Erdkreis erfüllt, bemüht sich das Volk Gottes, in den Ereignissen, Bedürfnissen und Wünschen, die es zusammen mit den übrigen Menschen unserer Zeit teilt, zu unterscheiden, was darin wahre Zeichen der Gegenwart oder der Absichten Gottes sind. Der Glaube erhellt nämlich alles mit einem neuen Licht, enthüllt den göttlichen Ratschluss hinsichtlich der integralen Berufung des Menschen und orientiert daher den Geist auf wirklich humane Lösungen hin.“ (GS 11)
+
 
 
 ## 4 Glaube und Kirche in der Welt von heute
