@@ -276,7 +276,7 @@ Ansatze der Regiliositat
 Wie die Formen der Religiositat in der modernen 
 Vielfalt der Religionen
 
-### 4.1 Ind des Glaubens
+### 4.1 Individualisierung des Glaubens
 
 Mensch Selbst reflecktierte, selbst-bestimmte
 Das Ind kann sich selbst entscheiden
