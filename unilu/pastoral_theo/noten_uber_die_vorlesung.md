@@ -4,30 +4,20 @@ title: Grundlagen der Pastoraltheologie
 author: Dr. Stephanie Klein
 ---
 
-# Teil I: Grundlagen ############################################################
-
-## 0 Einführung, Literatur, Organisation
-
-### Einführende Literatur zur Pastoraltheologie
-
-- Först, Johannes/ Heinz-Günther Schöttler (Hg.): Einführung in die Theologie der Pastoral. Ein Lehrbuch für Studierende, Lehrer und kirchliche Mitarbeiter. Berlin 2012.
-- Haslinger, Herbert: Pastoraltheologie. Paderborn 2015.
-- Haslinger, Herbert zus. mit Christiane Bundschuh-Schramm/ Ottmar Fuchs/ Leo Karrer/ Stephanie Klein/ Stefan Knobloch/ Gundelinde Stoltenberg (Hg.): Praktische Theologie. Ein Handbuch.
-- Mette, Norbert: Einführung in die katholische Praktische Theologie. Darmstadt 2005.
-
+# Teil I: Grundlagen ##############################################################################
 
 ## 1 Was ist Pastoraltheologie?
 
-### Die Begriffe Pastoraltheologie -- Praktische Theologie
+### 1.1 Die Begriffe Pastoraltheologie -- Praktische Theologie
 
-### Was Pastoraltheologie nicht ist
+### 1.2 Was Pastoraltheologie nicht ist
 
 - Pastoraltheologie ist nicht die Praxis selbst oder die Einführung in die Praxis
 - Pastoraltheologie ist nicht die Anwendung der kirchlichen Lehre oder der
   Erkenntnisse anderer theologischer Disziplinen auf die Praxis
 - Der Praxisbezug der Pastoraltheologie
 
-### Positive Bestimmungen
+### 1.3 Positive Bestimmungen
 
 Definition: die theologische Theorie der Praxis
 
@@ -49,13 +39,13 @@ Definition: die theologische Theorie der Praxis
 - Reflexion der Religiosität in der Gesellschaft? 
 - Reflexion auf das Leben bzw. die Praxis der Menschen überhaupt?
 
-### Gegenstand
+### 1.4 Gegenstand
 
 > Gegenstand der Praktischen Theologie sind die Praxis der Christinnen und
 > Christen und das Leben all jener Menschen und Geschöpfe, die ihnen in
 > besonderer Weise aufgegeben sind. *S. Klein*
 
-### Zur Geschichte der Praktischen Theologie als Universitätsdisziplin
+### 1.5 Zur Geschichte der Praktischen Theologie als Universitätsdisziplin
 
 
 
