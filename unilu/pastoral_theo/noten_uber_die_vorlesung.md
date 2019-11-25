@@ -26,9 +26,9 @@ Definition: die theologische Theorie der Praxis
 > Selbstvollzug der Kirche beschäftigt mittels der theologischen Erhellung der
 > jeweils gegebenen Situation, in der die Kirche sich selbst in allen ihren
 > Dimensionen vollziehen muß.
-> *Karl Rahner, Die Praktische Theologie im Ganzen der Theologischen
-> Disziplinen. In: Ders.: Schriften zur Theologie VIII, Einsiedeln 1967,
-> 133-149, Zitat: ebd., 134.*
+> > *Karl Rahner, Die Praktische Theologie im Ganzen der Theologischen
+> > Disziplinen. In: Ders.: Schriften zur Theologie VIII, Einsiedeln 1967,
+> > 133-149, Zitat: ebd., 134.*
 
 **Welche Gegenstandbereich?**
 
@@ -43,7 +43,8 @@ Definition: die theologische Theorie der Praxis
 
 > Gegenstand der Praktischen Theologie sind die Praxis der Christinnen und
 > Christen und das Leben all jener Menschen und Geschöpfe, die ihnen in
-> besonderer Weise aufgegeben sind. *S. Klein*
+> besonderer Weise aufgegeben sind.
+> > *S. Klein*
 
 ### 1.5 Zur Geschichte der Praktischen Theologie als Universitätsdisziplin
 
